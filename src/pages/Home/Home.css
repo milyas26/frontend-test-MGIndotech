@@ -1,0 +1,13 @@
+.contents {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: left;
+    margin-top: 10px;
+}
+
+.photo-wrapper {
+    margin-bottom: 8px;
+    margin-right: 11px;
+    display: inline;
+}
